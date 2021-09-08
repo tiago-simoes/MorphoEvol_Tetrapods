@@ -2,7 +2,7 @@
 
 R scripts  to replicate all analyses prior to and subsequent to evolutionary tree inference from the paper: 
 
-Simões, T. R. & Pierce, S. E. 2021. Sustained High Rates of Morphological Evolution During the Rise of Tetrapods. [Nature Ecology & Evolution](https://doi.org/10.1038/s41559-021-01532-x).
+[Simões, T. R. & Pierce, S. E. 2021. Sustained High Rates of Morphological Evolution During the Rise of Tetrapods. Nature Ecology & Evolution.](https://doi.org/10.1038/s41559-021-01532-x).
 
 All data sets used for this paper (including the ones not relevant to the protocols provided in the R scripts) are available at [Harvard Dataverse](https://doi.org/10.7910/DVN/NNVTTD)
 
