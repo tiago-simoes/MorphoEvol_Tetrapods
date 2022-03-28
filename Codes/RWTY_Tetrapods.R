@@ -3,7 +3,7 @@ library(rwty)
 library(reshape2)
 library(cowplot)
 
-
+#Change Noo Processors
 rwty.processors <<- 8
 
 #Import all .p and .t files from appropriate directory 
